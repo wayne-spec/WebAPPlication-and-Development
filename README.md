@@ -1,0 +1,1 @@
+This is  a hostel system for My web application project. It a llows student to view hostels available around their institution. The students will be able to select the preffered hostel based on the review and the images posted.
